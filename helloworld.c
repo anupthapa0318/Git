@@ -7,5 +7,6 @@ int main()
 	int a =10;
 	int m=1000;
 	int ram=9;
+	int sonulovessi;
 	return 0;
 }
